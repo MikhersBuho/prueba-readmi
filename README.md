@@ -1,4 +1,4 @@
-# Encuesta-produccion-Bakend :neckbeard:
+# Encuesta-produccion-Bakend :alien:
 ## Proyecto Backend - Encuestas
 
 **Para usar el proyecto hay que seguir los siguientes pasos:**
@@ -8,17 +8,17 @@
 
 -  Crear un entorno virtual de Python para el proyecto 
 
-`$ python -m virtualenv venv`
+		`python -m virtualenv venv`
 
 - activamos el entorno virtual
 
-`$ .\venv\Scripts\activate.ps1`
+		`.\venv\Scripts\activate.ps1`
 
 - Instalamos todas las dependencias requeridas para encuestas:
 
-`$ pip install -r requirements.txt`
+		`pip install -r requirements.txt`
 
-Creamos nuestro archivo `.env` para crear las variables de entrono (tiene que ser en en la carpeta donde esta el archivo `settings.py`)
+Creamos nuestro archivo `.env` para crear las variables de entrono recuerda tiene que ser en en la carpeta donde esta el archivo `settings.py`
 
 - En el archivo `.env` agregamos las variables
 
@@ -33,4 +33,4 @@ Creamos nuestro archivo `.env` para crear las variables de entrono (tiene que se
 
 ## ya puedes correr el proyecto :ok_hand:
 
-`$ python manage.py runserver`
+		`python manage.py runserver`
