@@ -1,4 +1,4 @@
-# Encuesta-produccion-Bakend :cry:
+# Encuesta-produccion-Bakend :neckbeard:
 ## Proyecto Backend - Encuestas
 
 **Para usar el proyecto hay que seguir los siguientes pasos:**
@@ -23,14 +23,14 @@ Creamos nuestro archivo `.env` para crear las variables de entrono (tiene que se
 - En el archivo `.env` agregamos las variables
 
 
-    DEBUG=valor
-    SECRET_KEY=valor
-    DB_NAME=valor
-    DB_USER=valor
-    DB_PASSWORD=valor
-    DB_HOST=valor
-    DB_PORT=valor
+			DEBUG=valor
+			SECRET_KEY=valor
+			DB_NAME=valor
+			DB_USER=valor
+			DB_PASSWORD=valor
+			DB_HOST=valor
+			DB_PORT=valor
 
-## ya puedes correr el proyecto :innocent:
+## ya puedes correr el proyecto :ok_hand:
 
 `$ python manage.py runserver`
